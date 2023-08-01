@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.7.19)  1 AUG 2023 09:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.7.19)  1 AUG 2023 09:49
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1014,22 +1014,22 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 (./MainDocument.aux)
 \openout1 = `MainDocument.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1113,15 +1113,15 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'MainDocument.bbl' found.
 
 (./MainDocument.bbl)
-Package biblatex Info: Reference section=0 on input line 20.
-Package biblatex Info: Reference segment=0 on input line 20.
+Package biblatex Info: Reference section=0 on input line 21.
+Package biblatex Info: Reference segment=0 on input line 21.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box73
-Package hyperref Info: Link coloring OFF on input line 20.
+Package hyperref Info: Link coloring OFF on input line 21.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1134,9 +1134,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count482
 )
-LaTeX Info: Redefining \ref on input line 20.
-LaTeX Info: Redefining \pageref on input line 20.
-LaTeX Info: Redefining \nameref on input line 20.
+LaTeX Info: Redefining \ref on input line 21.
+LaTeX Info: Redefining \pageref on input line 21.
+LaTeX Info: Redefining \nameref on input line 21.
 
 (./MainDocument.out) (./MainDocument.out)
 \@outlinefile=\write6
@@ -1157,39 +1157,41 @@ Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 \c@lstlisting=\count483
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 20.
-<img/assets/title_placeholder.png, id=4, 677.53125pt x 451.6875pt>
+LaTeX Info: Redefining \selectfont on input line 21.
+<img/assets/title_placeholder.png, id=15, 677.53125pt x 451.6875pt>
 File: img/assets/title_placeholder.png Graphic file (type png)
 <use img/assets/title_placeholder.png>
 Package pdftex.def Info: img/assets/title_placeholder.png  used on input line 2
-7.
+8.
 (pdftex.def)             Requested size: 677.52959pt x 451.68639pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--47
+Underfull \hbox (badness 10000) in paragraph at lines 45--48
 \OT1/cmss/m/n/12 de-li-ve-ry no-te: 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--47
+Underfull \hbox (badness 10000) in paragraph at lines 45--48
  
  []
 
-<img/assets/htlr_logo.png, id=5, 826.58812pt x 384.6872pt>
+<img/assets/htlr_logo.png, id=16, 826.58812pt x 384.6872pt>
 File: img/assets/htlr_logo.png Graphic file (type png)
 <use img/assets/htlr_logo.png>
-Package pdftex.def Info: img/assets/htlr_logo.png  used on input line 59.
+Package pdftex.def Info: img/assets/htlr_logo.png  used on input line 60.
 (pdftex.def)             Requested size: 63.58063pt x 29.59067pt.
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 59.
-<img/assets/htl_logo.jpg, id=7, 502.87875pt x 217.81375pt>
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 60.
+<img/assets/htl_logo.jpg, id=18, 502.87875pt x 217.81375pt>
 File: img/assets/htl_logo.jpg Graphic file (type jpg)
 <use img/assets/htl_logo.jpg>
-Package pdftex.def Info: img/assets/htl_logo.jpg  used on input line 59.
+Package pdftex.def Info: img/assets/htl_logo.jpg  used on input line 60.
 (pdftex.def)             Requested size: 68.3154pt x 29.59067pt.
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
  <./img/assets/htlr_logo.png> <./img/assets/htl_logo.jpg> <./img/assets/title_p
-laceholder.png>]
+laceholder.png>] [2
+
+]
 (./affirmation.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--11
 []\OT1/cmss/m/n/12 Rankweil, on the 1.8.2023 
@@ -1206,6 +1208,73 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--11
  []
 
 )
+File: img/assets/htlr_logo.png Graphic file (type png)
+<use img/assets/htlr_logo.png>
+Package pdftex.def Info: img/assets/htlr_logo.png  used on input line 77.
+(pdftex.def)             Requested size: 63.58063pt x 29.59067pt.
+File: img/assets/htl_logo.jpg Graphic file (type jpg)
+<use img/assets/htl_logo.jpg>
+Package pdftex.def Info: img/assets/htl_logo.jpg  used on input line 77.
+(pdftex.def)             Requested size: 68.3154pt x 29.59067pt.
+LaTeX Font Info:    Trying to load font information for OMS+cmss on input line 
+77.
+LaTeX Font Info:    No file OMScmss.fd. on input line 77.
+
+
+LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbar' on input line 77.
+
+[1]
+File: img/assets/htlr_logo.png Graphic file (type png)
+<use img/assets/htlr_logo.png>
+Package pdftex.def Info: img/assets/htlr_logo.png  used on input line 87.
+(pdftex.def)             Requested size: 63.58063pt x 29.59067pt.
+File: img/assets/htl_logo.jpg Graphic file (type jpg)
+<use img/assets/htl_logo.jpg>
+Package pdftex.def Info: img/assets/htl_logo.jpg  used on input line 87.
+(pdftex.def)             Requested size: 68.3154pt x 29.59067pt.
+ [2] (./MainDocument.lof)
+\tf@lof=\write7
+\openout7 = `MainDocument.lof'.
+
+File: img/assets/htlr_logo.png Graphic file (type png)
+<use img/assets/htlr_logo.png>
+Package pdftex.def Info: img/assets/htlr_logo.png  used on input line 99.
+(pdftex.def)             Requested size: 63.58063pt x 29.59067pt.
+File: img/assets/htl_logo.jpg Graphic file (type jpg)
+<use img/assets/htl_logo.jpg>
+Package pdftex.def Info: img/assets/htl_logo.jpg  used on input line 99.
+(pdftex.def)             Requested size: 68.3154pt x 29.59067pt.
+ [3] (./MainDocument.lot)
+\tf@lot=\write8
+\openout8 = `MainDocument.lot'.
+
+File: img/assets/htlr_logo.png Graphic file (type png)
+<use img/assets/htlr_logo.png>
+Package pdftex.def Info: img/assets/htlr_logo.png  used on input line 111.
+(pdftex.def)             Requested size: 63.58063pt x 29.59067pt.
+File: img/assets/htl_logo.jpg Graphic file (type jpg)
+<use img/assets/htl_logo.jpg>
+Package pdftex.def Info: img/assets/htl_logo.jpg  used on input line 111.
+(pdftex.def)             Requested size: 68.3154pt x 29.59067pt.
+ [4] (./MainDocument.lol)
+\tf@lol=\write9
+\openout9 = `MainDocument.lol'.
+
+File: img/assets/htlr_logo.png Graphic file (type png)
+<use img/assets/htlr_logo.png>
+Package pdftex.def Info: img/assets/htlr_logo.png  used on input line 121.
+(pdftex.def)             Requested size: 63.58063pt x 29.59067pt.
+File: img/assets/htl_logo.jpg Graphic file (type jpg)
+<use img/assets/htl_logo.jpg>
+Package pdftex.def Info: img/assets/htl_logo.jpg  used on input line 121.
+(pdftex.def)             Requested size: 68.3154pt x 29.59067pt.
+
+[5]
+
+LaTeX Warning: Empty bibliography on input line 125.
+
 
 Package caption Warning: Unused \captionsetup[listing] on input line 182.
 See the caption package documentation for explanation.
@@ -1222,41 +1291,37 @@ See the caption package documentation for explanation.
 Package caption Warning: Unused \captionsetup[longlisting] on input line 188.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 61.
-File: img/assets/htlr_logo.png Graphic file (type png)
-<use img/assets/htlr_logo.png>
-Package pdftex.def Info: img/assets/htlr_logo.png  used on input line 61.
-(pdftex.def)             Requested size: 63.58063pt x 29.59067pt.
-File: img/assets/htl_logo.jpg Graphic file (type jpg)
-<use img/assets/htl_logo.jpg>
-Package pdftex.def Info: img/assets/htl_logo.jpg  used on input line 61.
-(pdftex.def)             Requested size: 68.3154pt x 29.59067pt.
-[2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 61.
- (./MainDocument.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 61.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 61.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 129.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 129.
+(./MainDocument.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 129.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 129.
 Package rerunfilecheck Info: File `MainDocument.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: 05FC6F75DFA2B3EF1B29D7AFD386CD76;167.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 Package logreq Info: Writing requests to 'MainDocument.run.xml'.
 \openout1 = `MainDocument.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23288 strings out of 481239
- 401017 string characters out of 5920377
- 1169467 words of memory out of 5000000
- 38137 multiletter control sequences out of 15000+600000
+ 23333 strings out of 481239
+ 401498 string characters out of 5920377
+ 1169492 words of memory out of 5000000
+ 38164 multiletter control sequences out of 15000+600000
  538505 words of font info for 45 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  58i,15n,98p,966b,2282s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
-Output written on MainDocument.pdf (2 pages, 111676 bytes).
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on MainDocument.pdf (7 pages, 123738 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
- 22 compressed objects within 1 object stream
- 3 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 75 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
+ 10 named destinations out of 1000 (max. 500000)
+ 40 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -9,6 +9,7 @@
 \input{params.tex}
 
 % HTL Header 
+
 \lhead{\hspace{0.2cm} \includegraphics[height=1.04cm]{img/assets/htlr_logo.png}}
 \chead{\textbf{HTBLuVA  Rankweil} 
 	\\[0.05in]
@@ -54,8 +55,75 @@
 	\end{tabular}
 	
 	
-	% Leere Seite
+	% Empty Side
+	\pagebreak
+	\thispagestyle{empty}
+	\cleardoublepage
 	\pagebreak
 	
+	\SecAuth{\studentN} % festlegen der Verfasser dieses Kapitels
+	
+	\pagenumbering{Roman}
+	\fancyfoot[LE,RO]{\thepage}
+	\fancyfoot[LO,RE]{\DADate~\textbar~\pjname~\textbar ~\@SecAuth}
+	\renewcommand{\footrulewidth}{0.4pt} % anzeigen Separator-Strich in der Fußzeile (standardmäßig deaktiviert)
+	
 	\input{affirmation.tex}
+	
+	
+	
+	
+	\pagebreak
+	
+	% Abkürzungen und Hinweise
+	\section*{Abbreviations \& Notes}
+	\begin{singlespace}	
+		\begin{tabular}{ll}
+			GUI    & Graphical User Interface \\
+		\end{tabular}
+	\end{singlespace}
+	
+	\pagebreak
+	
+	
+	% Abbildungsverzeichnis
+	% ---------------------
+	% Abbildungsverzeichnis in Inhaltsverzeichnis
+	\singlespacing % Zeilenabstand verringern
+	\renewcommand{\listoffigures}{\begingroup
+		\tocsection
+		\tocfile{Abbildungsverzeichnis}{lof}
+		\endgroup}
+	\listoffigures % eigentlicher Befehl für das Anlegen des Abbildungsverzeichnisses
+	\pagebreak
+	
+	% Tabellenverzeichnis
+	% -------------------
+	% Tabellenverzeichnis in Inhaltsverzeichnis
+	
+	\renewcommand{\listoftables}{\begingroup
+		\tocsection
+		\tocfile{Tabellenverzeichnis}{lot}
+		\endgroup}
+	
+	\listoftables % eigentlicher Befehl für das Anlegen des Tabellenverzeichnisses
+	\pagebreak
+	
+	% Codeabschnittsverzeichnis
+	% -------------------------
+	% Codeabschnittsverzeichnis in Inhaltsverzeichnis
+	\stepcounter{section}		% increase section-counter
+	\renewcommand{\listoflistingscaption}{\arabic{section}~~~Codeverzeichnis}
+	\addcontentsline{toc}{section}{\arabic{section}~~~Codeverzeichnis} % Fügt Codevezeichnis ins Inhaltsverzeichnis ein
+	
+	\listoflistings
+	\pagebreak
+	
+	% Quellenverzeichnis
+	% ------------------
+	%\onehalfspacing
+	\printbibliography[heading=bibnumbered, title={Quellenverzeichnis}]
+	
+	\pagebreak
+	
 \end{document}
