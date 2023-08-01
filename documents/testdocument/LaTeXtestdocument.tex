@@ -1,0 +1,56 @@
+\documentclass[a4paper,12pt]{scrartcl}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{csquotes}
+
+\title{first latex test}
+\author{basti-debug}
+\date{\today}
+
+
+\newcommand{\bastiscustomcommand}{\LaTeX}
+
+
+\begin{document}
+	\maketitle
+	\tableofcontents
+¸
+	\section{Introduction}
+	Hello this is a test document, please \\ % <- carrige return 
+	contact customer \emph{support} for further information. 
+	
+	\section{Conclusion}
+	This is the second article 
+	\subsection{PCB}
+	this is the part about \textbf{my}PCB design 
+	
+	\section{numbering}
+	Why are u like that?:
+	\begin{itemize}
+		\item you are stupid
+		\item you are an idiot
+	\end{itemize}
+
+	\section{enumerate}
+	Why are u like that?:
+	\begin{enumerate}
+		\item you are stupid
+		\item you are an idiot
+		\begin{enumerate}
+			\item you are just not very bright 
+			\item you are incredibly stupid
+		\end{enumerate}
+	\end{enumerate}
+
+
+	\section{tables}
+	\begin{center}
+		\begin{tabular}{|l|r|c|}
+			left & right & central \\
+		\hline
+			r & c & l \\
+			rr & cc & ll \\
+		\end{tabular}
+	\end{center}
+\end{document}
