@@ -1,0 +1,59 @@
+% LaTeX Main Document for Sebastian Mayrhofers Final Thesis 
+% created 1 August 2023
+% by Sebastian Mayrhofer (may also be called basti-debug)
+
+
+
+\input{preamble.tex}  % Include Preamble File -> needed for all Settings of the Document 
+\pagestyle{fancy}
+\input{params.tex}
+% HTL Header 
+
+\lhead{\hspace{0.2cm} \includegraphics[height=1.04cm]{img/assets/htlr_logo.png}}
+\chead{\textbf{HTBLuVA  Rankweil} 
+	\\[0.05in]
+	\footnotesize{\textit{Höhere Lehranstalt für Elektronik und Technische Informatik}}}
+\rhead{\includegraphics[height=1.04cm]{img/assets/htl_logo.jpg} \hspace{0.2cm}}
+
+\fancyfoot{} 
+
+\begin{document}
+	\begin{center}
+		\textbf {\huge {\uppercase {Diplomarbeit}}}
+		\par \large {Gesamtprojekt}
+		\par \textbf {\huge {\uppercase {\pjname}}}
+		\vspace{0.3cm}
+		\linebreak
+		\includegraphics[frame, height=6cm]{img/assets/title_placeholder.png}
+	\end{center}
+	
+	\vfill % damit der folgende am Blattende positioniert wird
+	
+	
+	\begin{minipage}[t] {0.4\textwidth}
+		\textbf{Team members:} \\
+		\studentN \\
+	\end{minipage}
+	\begin{minipage}[t] {0.4\textwidth}
+		\textbf{Supervisor:} \\		
+		\supervisor \\
+	\end{minipage}
+	
+	\par Rankweil, on the \PrintDate \\		
+	
+	\noindent\rule{\textwidth}{0.4pt}
+	delivery note:
+	\linebreak
+	
+	\begin{tabular}{p{7cm}C{6cm}}
+		\hspace{1cm} DA original, am \PrintDate & ........................................ \\ 
+		& \supervisor \\ [2.5em]
+		
+		\hspace{1cm} DA digital, am \PrintDate & ........................................ \\ 
+		& \supervisor \\
+	\end{tabular}
+	
+	
+	% Leere Seite
+	\pagebreak
+\end{document}

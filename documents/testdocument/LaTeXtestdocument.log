@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.7.19)  1 AUG 2023 00:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.7.19)  1 AUG 2023 07:54
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -169,33 +169,33 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 (./LaTeXtestdocument.aux)
 \openout1 = `LaTeXtestdocument.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-Package scrbase Info: activating english \contentsname on input line 15.
-Package scrbase Info: activating english \listfigurename on input line 15.
-Package scrbase Info: activating english \listtablename on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+Package scrbase Info: activating english \contentsname on input line 16.
+Package scrbase Info: activating english \listfigurename on input line 16.
+Package scrbase Info: activating english \listtablename on input line 16.
 LaTeX Font Info:    Trying to load font information for T1+cmss on input line 1
-7.
+8.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 17.
+(Font)              <17.28> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 17.
+(Font)              <12> on input line 18.
 
 (./LaTeXtestdocument.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -209,25 +209,25 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./LaTeXtestdocument.a
-ux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./document.tex) [2] (./La
+TeXtestdocument.aux) ) 
 Here is how much of TeX's memory you used:
- 4098 strings out of 481239
- 80813 string characters out of 5920377
+ 4102 strings out of 481239
+ 80870 string characters out of 5920377
  436941 words of memory out of 5000000
- 19384 multiletter control sequences out of 15000+600000
+ 19386 multiletter control sequences out of 15000+600000
  543164 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,6n,56p,10112b,266s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/te
-xmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/publ
-ic/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200
-.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/tex
-mf/fonts/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf/fonts/type1/publi
-c/cm-super/sfsx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1728.
-pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx2488.pfb></usr/share/texm
-f/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on LaTeXtestdocument.pdf (2 pages, 113145 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.e
+nc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf
+/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/
+cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pf
+b></usr/share/texmf/fonts/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf/
+fonts/type1/public/cm-super/sfsx1440.pfb></usr/share/texmf/fonts/type1/public/c
+m-super/sfsx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx2488.pfb
+></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on LaTeXtestdocument.pdf (2 pages, 114008 bytes).
 PDF statistics:
  47 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream
